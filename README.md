@@ -10,7 +10,7 @@ You need Google account (Google Workspace account) only, no need any servers.
 # How it works
 This script works as Google Apps Script (GAS) so that you could handle webhook event sent by GitHub.
 
-![sequence dialog](https://gist.githubusercontent.com/waysaku/0b9e5b91b0329506eac7793f454ed173/raw/5b02b9f85666e161ab26ac01d05748e0a0fdf5f0/github_auto_protection_diagram) https://gist.github.com/waysaku/0b9e5b91b0329506eac7793f454ed173
+![sequence dialog](http://www.plantuml.com/plantuml/proxy?src=https://gist.githubusercontent.com/waysaku/0b9e5b91b0329506eac7793f454ed173/raw/5b02b9f85666e161ab26ac01d05748e0a0fdf5f0/github_auto_protection_diagram) https://gist.github.com/waysaku/0b9e5b91b0329506eac7793f454ed173
 
 # Setting up
 ## Deploy script into GAS environment
